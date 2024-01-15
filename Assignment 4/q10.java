@@ -43,6 +43,5 @@ public class q10
             default:
             System.out.println("Invalid Operator");
         }
-
     }
 }
